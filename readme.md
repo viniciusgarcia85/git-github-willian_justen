@@ -3,3 +3,8 @@
 2° - Assistindo as primeiras aulas do curso de git e github
 
     - Estou entendendo o ciclo de vida dos estados dos arquivos
+
+3° - Assistindo as aulas mais complicadas e anotando as informações.
+
+4° - Testando novos commit
+
